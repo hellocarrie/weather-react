@@ -7,13 +7,13 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          <h1>hello</h1>
+          <h1>Weather App</h1>
           <Search />
         </p>
       </header>
-      <footer>
+      <p>
         <a href="https://github.com/hellocarrie/weather-react"></a>
-      </footer>
+      </p>
     </div>
   );
 }
