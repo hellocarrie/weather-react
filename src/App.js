@@ -11,6 +11,9 @@ function App() {
           <Search />
         </p>
       </header>
+      <footer>
+        <a href="https://github.com/hellocarrie/weather-react"></a>
+      </footer>
     </div>
   );
 }
