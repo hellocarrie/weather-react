@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 import Search from "./Search";
 
@@ -12,7 +11,7 @@ function App() {
         </p>
       </header>
       <div>
-        <a href="https://github.com/hellocarrie/weather-react"></a>
+        <a href="https://github.com/hellocarrie/weather-react">Github</a>
       </div>
     </div>
   );
